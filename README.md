@@ -2,10 +2,7 @@
 🌟 Creación de una Página Web usando HTML5 &amp;&amp; CSS3 🌞
 
 ## Intro 📚
-Este proyecto consistió en una práctica realizada en el bootcamp de Tecnolochicas Pro, donde se analizaron los componentes principales para la creación de una página web y se replicaron a través de tecnologías como HTML y CSS.
-
-// ¿Por qué utilizar HTML y CSS en vez de otra cosa? // 💡
-Porque son unos de los principales lenguajes de programación web más usados. 🌐
+Este proyecto consistió en una práctica realizada en el bootcamp de Tecnolochicas Pro, donde se analizaron los componentes principales para la creación de una página web y se replicaron a través de tecnologías como HTML y CSS, que son unos de los principales lenguajes de programación web más usados. 🌐
 
 ## ¿Qué construí? ❇️
 👨‍💻 Se construyó Página Web, la cual estuvo divida en 3 secciones de HTML principales: 
